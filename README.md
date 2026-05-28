@@ -198,4 +198,8 @@ make deps
 
 ## License
 
-MIT
+MIT, see [LICENSE](LICENSE).
+
+## Contributing
+
+PRs welcome. Please open an issue first for major changes.
